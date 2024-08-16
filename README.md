@@ -15,4 +15,4 @@ A Open Source Dark Texture Pack for ReMCPE
 ![Main Menu](https://github.com/GlitchSlayed/ReMCPEDarkMode/blob/main/MainMenu.png?raw=true)
 
 ## Installation
-After building the game, merge these assets with you assets folder and overite them, then start the game and enjoy!
+After building the game, merge these assets with you assets folder and overwrite them, then start the game and enjoy!
